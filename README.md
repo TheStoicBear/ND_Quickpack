@@ -10,7 +10,7 @@ A Quick Installation pack for ND-Framework to include all of the latest scripts 
 
 
 
-Here is how to install this pack.
+# Here is how to install this pack.
 
 ____
 
@@ -38,4 +38,5 @@ ____
 
 10) Finally, delete the server cache folder (if it exists) and restart your FiveM server.
 ____
-That's it! You should now be able to run the resources and enjoy the features of this pack.
+
+#That's it! You should now be able to run the resources and enjoy the features of this pack.
