@@ -39,4 +39,4 @@ ____
 10) Finally, delete the server cache folder (if it exists) and restart your FiveM server.
 ____
 
-#That's it! You should now be able to run the resources and enjoy the features of this pack.
+# That's it! You should now be able to run the resources and enjoy the features of this pack.
