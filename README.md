@@ -35,7 +35,8 @@ ____
 
 ____
 
-There is one additional resource that can not be uploaded to GitHub, 
+There is one additional resource that can not be uploaded to GitHub,
+
 https://github.com/ND-Framework/ND_DiamondBlackjack
 
 If you wish to install this resource you can just put it in the **[ND]** folder.
