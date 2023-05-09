@@ -6,7 +6,7 @@ A Quick Installation pack for ND-Framework to include all of the latest scripts 
 
 ____
 
-1) Navigate to the folder labeled ## "1" and open it.
+1) Navigate to the folder labeled **"1"** and open it.
 
 2) Inside the folder, you will find several resources. Drag and drop all of these resources into your FiveM server resources folder.
 
